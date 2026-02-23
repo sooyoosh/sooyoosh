@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm sooyoosh 👋
 
 💻 Full-Stack Developer (.NET & Angular)  
 🚀 I build scalable SaaS-ready web applications  
@@ -20,9 +20,8 @@
 ---
 ## 🧰 Languages & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,js,html,css,bootstrap,git,github,docker,sqlserver" />
-</p>
+   <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,js,html,css,bootstrap,git,github,docker,redis,sqlserver" />
+
 
 ## 🔥 Featured Projects
 
